@@ -2,7 +2,7 @@
 
 A minimalistic and streamlined serialization and deserialization library.
 
-## Learning Rust by implementing tiny systems programs
+## Learning Rust and systems programming by implementing tiny programs that work
 
 **Picoser** is a minimalistic and streamlined serialization and deserialization library. It's a nano Serde-like library.
 
